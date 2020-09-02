@@ -29,6 +29,8 @@
     - die appleJuiceNET [Github Organisation](https://github.com/applejuicenet) zum Sammeln und Dokumentieren aller Arbeiten ins Leben gerufen
     - die appleJuiceNET [Docker Organisation](https://hub.docker.com/u/applejuicenet) für die genannten Docker Container ins Leben gerufen
     - den appleJuice Core `0.31.149.111` auf Basis des `0.31.149.110` mit abgeschalteter JRE Prüfung veröffentlicht
+    - den appleJuiceNET [Discord Server](https://discord.gg/qUMDHV) gegründet und einen Ball ins Rollen gebracht
+    - einen [Discord Bot](https://github.com/applejuicenet/discord-bot) für die appleJuice Netzwerk Statistiken entwickelt und bereitgestellt :cloud: 
     - und noch einiges mehr :wink: 
 
 
