@@ -1,0 +1,38 @@
+### Vita
+
+- bei `appleJuice` seit 2004, als es noch in Delphi programmiert war :wink: 
+- von 2008 bis 2012 der Programmierer bei `appledocs.to` :man_technologist:
+    - 2012 wurde als Team Entscheidung `appledocs.to` beerdigt :coffin:
+- 2012 aus gesundheitlichen Gründen zurückgezogen :scream:
+- 2019 mal geschaut, ob es die appleJuice Community noch gibt :wave:
+    - man munkelt, das es was mit dem SO Bust zu tun haben könnte :see_no_evil:
+- seit 2019 habe ich:
+    - die [Browser Erweiterung](https://github.com/applejuicenetz/browser-extension) wiederbelebt und veröffentlicht
+    - ~~für den appleJuice Core ein `IRC Plugin` für den WebIRC Client [TheLounge](https://thelounge.chat) veröffentlicht~~
+    - den appleJuice Core als [Docker Container](https://github.com/orgs/applejuicenetz/packages/container/package/core) veröffentlicht
+    - die appleJuice [phpGUI](https://github.com/applejuicenetz/phpgui) für PHP 7.X fit gemacht
+    - die appleJuice phpGUI als [Docker Container](https://github.com/orgs/applejuicenetz/packages/container/package/phpgui) veröffentlicht
+    - die appleJuice phpGUI als zero logging [Hosted Service](https://phpgui.applejuicenet.cc) bereitgestellt :cloud:
+    - einen [appleJuice link converter](https://applejuicenetz.github.io/link-converter/) für `ajfsp` <> `ajl` veröffentlicht
+    - die für den appleJuice Core benötigte [ajnetmask](https://github.com/applejuicenetz/ajnetmask) Bibliothek für Windows 10 x64 kompiliert und veröffentlicht
+    - ~~Netzwerk Statistiken via Grafana bereitgestellt~~ :cloud:
+    - die beiden Server `Knastschwester` und `Knastopa` bereitgestellt :cloud:
+    - ~~den appleJuice Time Server nach RFC868 für das Server Netzwerk wiederbelebt~~
+    - die appleJuice [Serverliste](http://www.applejuicenet.cc/serverlist/) (wieder) dynamisiert
+    - den Quellcode der original [JavaGUI](https://github.com/applejuicenetz/gui-java) wiedergefunden, wiederbelebt und veröffentlicht
+    - für den appleJuice Core und die GUI eigene macOS Packages erstellt und via [Homebrew](https://github.com/applejuicenetz/homebrew-packages) veröffentlicht
+    - für den appleJuice Core und die GUI eigene Linux Packages erstellt und via [Snapcraft](https://snapcraft.io/search?q=applejuicenet) veröffentlicht
+    - für Windows ein vereinfachtes `x86`/`x64` [Multisetup](https://github.com/applejuicenetz/setup) veröffentlicht
+    - für Windows eine appleJuice [Portable](https://github.com/applejuicenetz/portable) Version veröffentlicht
+    - die in jeder appleJuice GUI angezeigten [News](https://github.com/applejuicenetz/news) (wieder) dynamisiert
+    - für den appleJuice Core einen [Prometheus Exporter](https://github.com/applejuicenetz/prometheus_exporter) veröffentlicht
+    - die appleJuiceNET [Github Organisation](https://github.com/applejuicenetz) zum Sammeln und Dokumentieren aller Arbeiten ins Leben gerufen (ZWEI MAL)
+    - ~~die appleJuiceNET `Docker Organisation` für die genannten Docker Container ins Leben gerufen~~
+    - den appleJuice Core `0.31.149.111` auf Basis des `0.31.149.110` mit abgeschalteter JRE Prüfung veröffentlicht
+    - den appleJuiceNET [Discord Server](https://discord.gg/qUMDHV) gegründet und einen Ball ins Rollen gebracht
+    - einen [Discord Bot](https://github.com/applejuicenetz/discord-bot) für die appleJuice Netzwerk Statistiken entwickelt und bereitgestellt :cloud: 
+    - den appleJuice Core `0.31.149.112` auf Basis des `0.31.149.111` mit Umstellung auf die http://applejuicenet.cc Domain veröffentlicht
+    - die Nötigung und Erpressung von [theo_box](https://github.com/red171/red171/blob/master/theo_box.md) über mich ergehen lassen:shit:
+    - zusammen mit den Serverbetreibern in einem [Putsch](https://github.com/red171/red171/blob/master/Putsch.md) das Netzwerk gerettet :heavy_exclamation_mark:
+    - und noch einiges mehr :wink: 
+
