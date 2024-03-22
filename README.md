@@ -1,0 +1,42 @@
+### Vita
+
+- bei `appleJuice` seit 2004, als es noch in Delphi programmiert war :wink:
+- von 2008 bis 2012 der Programmierer bei `appledocs.to` :man_technologist:
+    - 2012 wurde als Team Entscheidung `appledocs.to` beerdigt :coffin:
+- 2012 aus gesundheitlichen Gründen zurückgezogen :scream:
+- 2019 geschaut, ob es die appleJuice Community noch gibt :wave:
+    - man munkelt, das es etwas mit dem SO Bust zu tun haben könnte :see_no_evil:
+- seit 2019 habe ich:
+    - die appleJuiceNETZ [Github Organisation](https://github.com/applejuicenetz) zum Sammeln und Dokumentieren aller Arbeiten ins Leben gerufen
+    - die appleJuiceNETZ [Docker Organisation](https://hub.docker.com/u/applejuicenetz) für alle Docker Container ins Leben gerufen (`Sponsored OSS` :tada:)
+    - eine statische [Website](https://applejuicenetz.github.io/) für ` appleJuiceNETZ` veröffentlicht
+    - eine übersichtliche und sinnvolle appleJuice [FAQ](https://applejuicenetz.github.io/faq/) zusammengestellt
+    - den appleJuice Core als [Docker Container](https://hub.docker.com/r/applejuicenetz/core) veröffentlicht
+    - den Quellcode der original [JavaGUI](https://github.com/applejuicenetz/gui-java) wiedergefunden, wiederbelebt, weiterentwickelt und veröffentlicht
+    - native macOS Apps des appleJuice Cores [Apps](https://applejuicenetz.github.io/downloads/applejuice-macos/) veröffentlicht
+    - für den appleJuice Core und die GUI eigene Linux Packages erstellt und via [Snapcraft](https://snapcraft.io/search?q=applejuicenet) veröffentlicht
+    - den appleJuice Core `0.31.149.111` auf Basis des `0.31.149.110` mit abgeschalteter JRE Prüfung [veröffentlicht](https://applejuicenetz.github.io/downloads/applejuice-core/)
+    - den appleJuice Core `0.31.149.112` auf Basis des `0.31.149.111` mit Umstellung auf die http://applejuicenet.cc Domain veröffentlicht
+    - den Standardserver `Knastbruder`, welcher bei der Erstinstallation kontaktiert wird, bereitgestellt :cloud:
+    - die beiden Server `Knastschwester` und `Knastopa` ebenfalls bereitgestellt :cloud:
+    - für Windows ein vereinfachtes `x86`/`x64` [Multisetup](https://github.com/applejuicenetz/setup) veröffentlicht
+    - für Windows eine appleJuice [Portable](https://github.com/applejuicenetz/portable) Version veröffentlicht
+    - die appleJuice [Serverliste](http://www.applejuicenet.cc/serverlist/) (wieder) dynamisiert
+    - den appleJuice Server `0.82.0` auf Basis des `0.77.0` mit Umstellung auf die [www.applejuicenet.cc](http://www.applejuicenet.cc/serverlist/) Domain veröffentlicht
+    - ein Tool für den appleJuice Server entwickelt, um die `whitelist` der Cores zu verwalten
+    - die in (fast) jeder appleJuice GUI angezeigten [News](https://github.com/applejuicenetz/news) (wieder) dynamisiert
+    - die [Browser Erweiterung](https://github.com/applejuicenetz/browser-extension) wiederbelebt und veröffentlicht
+    - einen appleJuice Core [Collector](https://applejuicenetz.github.io/downloads/applejuice-collector/) entwickelt und veröffentlicht
+    - die appleJuice [phpGUI](https://github.com/applejuicenetz/phpgui) für PHP 8 fit gemacht als auch `containerisiert`
+    - die appleJuice phpGUI als zero logging [Hosted Service](https://phpgui.applejuicenet.cc) bereitgestellt :cloud:
+    - die vom Core benötigte [ajnetmask](https://github.com/applejuicenetz/ajnetmask) Bibliothek für Windows 10/11 x64 und macOS M1 kompiliert und veröffentlicht
+    - appleJuice Netzwerk [Statistiken](https://grafana.applejuicenet.cc/) via Grafana bereitgestellt :cloud:
+    - den appleJuice Time Server nach RFC868 für das Server Netzwerk wiederbelebt
+    - den Quellcode und die Binaries der [Juicer GUI](https://github.com/applejuicenetz/gui-juicer/) `1.2` wiedergefunden, wiederbelebt und veröffentlicht
+    - die jüngsten Binaries für das Windows [Apfelmus GUI](https://applejuicenetz.github.io/downloads/applejuice-apfelmus-gui/) wiedergefunden und ein Setup dafür erstellt
+    - den Quellcode für das [Apfelmus GUI](https://github.com/applejuicenetz/gui-apfelmus) vom Community Mitglied `daredevil` erhalten und veröffentlicht
+    - für das Windows [ApplePulp GUI](https://applejuicenetz.github.io/downloads/applejuice-applepulp-gui/) ein funktionierendes Setup erstellt
+    - für den appleJuice Core einen [Prometheus Exporter](https://github.com/applejuicenetz/prometheus_exporter) veröffentlicht
+    - einen [Discord Bot](https://github.com/applejuicenetz/discord-bot) für die appleJuice Netzwerk Statistiken entwickelt und veröffentlicht :cloud:
+    - einen [appleJuice link converter](https://applejuicenetz.github.io/link-converter/) für `ajfsp` <> `ajl` entwickelt und veröffentlicht
+    - und noch einiges mehr :wink: 
