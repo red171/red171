@@ -41,4 +41,8 @@
     - einen [appleJuice-Link-Converter](https://applejuicenetz.github.io/link-converter/) für `ajfsp` <> `ajl` entwickelt und veröffentlicht
     - die Nötigung und Erpressung von [theo_box](theo_box.md) über mich ergehen lassen :shit:
     - zusammen mit den Serverbetreibern in einem [Putsch](Putsch.md) das Netzwerk gerettet :heavy_exclamation_mark:
+- seit 2026 den appleJuice Core durch die Hilfe der Community weiterentwickelt:
+    - den Core modernisiert und eine neue Beta veröffentlicht ([Changelog](https://github.com/applejuicenetz/core/blob/main/CHANGELOG.md))
+    - Home-Assistant-Integrationen für Core und Server veröffentlicht ([Core](https://github.com/applejuicenetz/ha-applejuice-core), [Server](https://github.com/applejuicenetz/ha-applejuice-server))
+    - Flatpak-Pakete für Core, JavaGUI und Collector veröffentlicht ([Repository](https://github.com/applejuicenetz/flatpak))
     - und noch einiges mehr :wink:
