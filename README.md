@@ -6,7 +6,7 @@
 - 2012 aus gesundheitlichen Gründen zurückgezogen :scream:
 - 2019 geschaut, ob es die appleJuice-Community noch gibt :wave:
     - man munkelt, dass es etwas mit dem SO-Bust zu tun haben könnte :see_no_evil:
-- seit 2019 habe ich:
+- seit 2019 umgesetzt:
     - die appleJuiceNETZ-[GitHub-Organisation](https://github.com/applejuicenetz) zum Sammeln und Dokumentieren aller Arbeiten ins Leben gerufen
     - die appleJuiceNETZ-[Docker-Organisation](https://hub.docker.com/u/applejuicenetz) für alle Docker-Container ins Leben gerufen (`Sponsored OSS` :tada:)
     - eine statische [Website](https://applejuicenetz.github.io/) für `appleJuiceNETZ` veröffentlicht
@@ -41,8 +41,9 @@
     - einen [appleJuice-Link-Converter](https://applejuicenetz.github.io/link-converter/) für `ajfsp` <> `ajl` entwickelt und veröffentlicht
     - die Nötigung und Erpressung von [theo_box](theo_box.md) über mich ergehen lassen :shit:
     - zusammen mit den Serverbetreibern in einem [Putsch](Putsch.md) das Netzwerk gerettet :heavy_exclamation_mark:
-- seit 2026 den appleJuice Core durch die Hilfe der Community weiterentwickelt:
-    - den Core modernisiert und eine neue Beta veröffentlicht ([Changelog](https://github.com/applejuicenetz/core/blob/main/CHANGELOG.md))
+- seit 2026:
+    - den Core modernisiert und neue Versionen veröffentlicht ([Changelog](https://github.com/applejuicenetz/core/blob/main/CHANGELOG.md))
+    - die JavaGUI modernisiert und neue Versionen veröffentlicht ([Changelog](https://github.com/applejuicenetz/gui-java/blob/main/CHANGELOG.md))
     - Home-Assistant-Integrationen für Core und Server veröffentlicht ([Core](https://github.com/applejuicenetz/ha-applejuice-core), [Server](https://github.com/applejuicenetz/ha-applejuice-server))
     - Flatpak-Pakete für Core, JavaGUI und Collector veröffentlicht ([Repository](https://github.com/applejuicenetz/flatpak))
     - und noch einiges mehr :wink:
